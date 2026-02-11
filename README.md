@@ -1,4 +1,6 @@
-The Bank Fund Transfer System is a console-based Java application built using JDBC and Oracle Database that allows users to:
+## BANK TRANSFER SYSTEM
+
+The Bank Transfer System is a console-based Java application built using JDBC and Oracle Database that allows users to:
 
   - Check account balance
   - Validate account numbers
@@ -12,7 +14,7 @@ The application follows a layered architecture using:
    - Service Layer
    - Utility Layer
 
-Features
+### Features
 
 - Account validation
 - Balance checking
@@ -21,3 +23,8 @@ Features
 - Transaction recording
 - Sequence-based transaction ID generation
 - Layered architecture design
+
+### OUTPUT
+
+<img width="402" height="165" alt="image" src="https://github.com/user-attachments/assets/3154feee-388f-40b0-bb94-57626190a8b5" />
+
